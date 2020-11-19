@@ -1,3 +1,4 @@
+  
 #include<stdio.h>
 void main(){
 	int a;
@@ -9,8 +10,8 @@ void main(){
 	else if(a==0){
 		printf("输出女\n");
 	}
-	else if(a>1||a<0){
-		printf("输入有误，请重新输入。");
+	else{
+		printf("输入有误，请重新输入。\n");
 	}
 
 
