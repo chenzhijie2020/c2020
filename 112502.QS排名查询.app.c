@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
 	int a;
-	printf("QS大学排名查询\n");
+	printf("欢迎使用QS大学排名查询程序，请输入大学排名\n");
 	scanf("%d",&a);
 	if(a==1){
 		printf("麻省理工学院\n");
