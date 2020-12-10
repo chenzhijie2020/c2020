@@ -17,6 +17,6 @@ void main(){
 	printf("给我安排元宵\n");
 	}
 	else{
-	printf("请重新输入");
+	printf("请重新输入\n");
 	}
 }
